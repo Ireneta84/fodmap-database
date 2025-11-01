@@ -1,0 +1,34 @@
+[
+  {
+    "Ingredient": "Apple",
+    "Category": "Fruit",
+    "FODMAP_Level": "High",
+    "Serving_Size": 100,
+    "Unit": "g",
+    "Notes": "High FODMAP at normal serving"
+  },
+  {
+    "Ingredient": "Rice",
+    "Category": "Grain",
+    "FODMAP_Level": "Low",
+    "Serving_Size": 100,
+    "Unit": "g",
+    "Notes": "Safe"
+  },
+  {
+    "Ingredient": "Milk",
+    "Category": "Dairy",
+    "FODMAP_Level": "High",
+    "Serving_Size": 100,
+    "Unit": "ml",
+    "Notes": "Contains lactose"
+  },
+  {
+    "Ingredient": "Carrot",
+    "Category": "Vegetable",
+    "FODMAP_Level": "Low",
+    "Serving_Size": 100,
+    "Unit": "g",
+    "Notes": "Safe"
+  }
+]
