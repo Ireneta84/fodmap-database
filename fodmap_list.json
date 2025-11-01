@@ -2,7 +2,7 @@
   {
     "Ingredient": "Almond Meal",
     "Category": "Baking Supplies",
-    "Type of FODMAP": "GOS",
+    "Type_of_FODMAP": "GOS",
     "FODMAP_Levels": {
       "Low": "33g",
       "Medium": "39g",
@@ -12,7 +12,7 @@
   {
     "Ingredient": "Asparagus Green",
     "Category": "Vegetables",
-    "Type of FODMAP": "Fructan, Fructose",
+    "Type_of_FODMAP": "Fructan, Fructose",
     "FODMAP_Levels": {
       "Low": "42g",
       "Medium": "57g",
@@ -22,7 +22,7 @@
   {
     "Ingredient": "Aubergine",
     "Category": "Vegetables",
-    "Type of FODMAP": "Sorbitol",
+    "Type_of_FODMAP": "Sorbitol",
     "FODMAP_Levels": {
       "Low": "75g",
       "Medium": "178g",
@@ -32,7 +32,7 @@
   {
     "Ingredient": "Avocado",
     "Category": "Vegetables",
-    "Type of FODMAP": "Sorbitol",
+    "Type_of_FODMAP": "Sorbitol",
     "FODMAP_Levels": {
       "Low": "60g",
       "Medium": "80g",
@@ -42,7 +42,7 @@
   {
     "Ingredient": "Baby Spinach",
     "Category": "Vegetables",
-    "Type of FODMAP": "Fructan",
+    "Type_of_FODMAP": "Fructan",
     "FODMAP_Levels": {
       "Low": "75g",
       "Medium": "146g",
@@ -52,7 +52,7 @@
   {
     "Ingredient": "Baking Powder",
     "Category": "Baking Supplies",
-    "Type of FODMAP": "No FODMAP",
+    "Type_of_FODMAP": "No FODMAP",
     "FODMAP_Levels": {
       "Low": "5g",
       "Medium": "",
@@ -62,7 +62,7 @@
   {
     "Ingredient": "Banana (Firm)",
     "Category": "Fruits",
-    "Type of FODMAP": "Fructose",
+    "Type_of_FODMAP": "Fructose",
     "FODMAP_Levels": {
       "Low": "95g",
       "Medium": "100g",
@@ -72,7 +72,7 @@
   {
     "Ingredient": "Basmati Rice",
     "Category": "Grains and Pasta",
-    "Type of FODMAP": "No FODMAP",
+    "Type_of_FODMAP": "No FODMAP",
     "FODMAP_Levels": {
       "Low": "190g",
       "Medium": "",
@@ -82,7 +82,7 @@
   {
     "Ingredient": "Blueberry",
     "Category": "Fruits",
-    "Type of FODMAP": "No FODMAP",
+    "Type_of_FODMAP": "No FODMAP",
     "FODMAP_Levels": {
       "Low": "125g",
       "Medium": "",
@@ -92,7 +92,7 @@
   {
     "Ingredient": "Bok Choy",
     "Category": "Vegetables",
-    "Type of FODMAP": "Sorbitol",
+    "Type_of_FODMAP": "Sorbitol",
     "FODMAP_Levels": {
       "Low": "75g",
       "Medium": "98g",
@@ -102,7 +102,7 @@
   {
     "Ingredient": "Bread Crumbs (Panko)",
     "Category": "Baking Supplies",
-    "Type of FODMAP": "Fructan",
+    "Type_of_FODMAP": "Fructan",
     "FODMAP_Levels": {
       "Low": "25g",
       "Medium": "102g",
@@ -112,7 +112,7 @@
   {
     "Ingredient": "Broccoli (Heads Only)",
     "Category": "Vegetables",
-    "Type of FODMAP": "Fructose",
+    "Type_of_FODMAP": "Fructose",
     "FODMAP_Levels": {
       "Low": "75g",
       "Medium": "208g",
@@ -122,7 +122,7 @@
   {
     "Ingredient": "Brown sugar",
     "Category": "Baking Supplies",
-    "Type of FODMAP": "No FODMAP",
+    "Type_of_FODMAP": "No FODMAP",
     "FODMAP_Levels": {
       "Low": "40g",
       "Medium": "",
@@ -132,7 +132,7 @@
   {
     "Ingredient": "Butternut Squash",
     "Category": "Vegetables",
-    "Type of FODMAP": "Fructan",
+    "Type_of_FODMAP": "Fructan",
     "FODMAP_Levels": {
       "Low": "63g",
       "Medium": "75g",
@@ -142,7 +142,7 @@
   {
     "Ingredient": "Cacao Powder",
     "Category": "Baking Supplies",
-    "Type of FODMAP": "No FODMAP",
+    "Type_of_FODMAP": "No FODMAP",
     "FODMAP_Levels": {
       "Low": "8g",
       "Medium": "",
@@ -152,7 +152,7 @@
   {
     "Ingredient": "Cannellini Beans",
     "Category": "Canned Goods",
-    "Type of FODMAP": "GOS, Fructan",
+    "Type_of_FODMAP": "GOS, Fructan",
     "FODMAP_Levels": {
       "Low": "76g",
       "Medium": "89g",
@@ -162,7 +162,7 @@
   {
     "Ingredient": "Carrot",
     "Category": "Vegetables",
-    "Type of FODMAP": "No FODMAP",
+    "Type_of_FODMAP": "No FODMAP",
     "FODMAP_Levels": {
       "Low": "75g",
       "Medium": "",
@@ -172,7 +172,7 @@
   {
     "Ingredient": "Cauliflower",
     "Category": "Vegetables",
-    "Type of FODMAP": "Fructan",
+    "Type_of_FODMAP": "Fructan",
     "FODMAP_Levels": {
       "Low": "75g",
       "Medium": "195g",
@@ -182,7 +182,7 @@
   {
     "Ingredient": "Cherry Tomatoes",
     "Category": "Vegetables",
-    "Type of FODMAP": "Fructose",
+    "Type_of_FODMAP": "Fructose",
     "FODMAP_Levels": {
       "Low": "45g",
       "Medium": "60g",
@@ -192,7 +192,7 @@
   {
     "Ingredient": "Chocolate Milk",
     "Category": "Dairy",
-    "Type of FODMAP": "Lactose",
+    "Type_of_FODMAP": "Lactose",
     "FODMAP_Levels": {
       "Low": "20g",
       "Medium": "30g",
@@ -202,7 +202,7 @@
   {
     "Ingredient": "Common Tomato",
     "Category": "Fruits",
-    "Type of FODMAP": "Fructose",
+    "Type_of_FODMAP": "Fructose",
     "FODMAP_Levels": {
       "Low": "65g",
       "Medium": "75g",
@@ -212,7 +212,7 @@
   {
     "Ingredient": "Curry Powder",
     "Category": "Condiments",
-    "Type of FODMAP": "No FODMAP",
+    "Type_of_FODMAP": "No FODMAP",
     "FODMAP_Levels": {
       "Low": "2g",
       "Medium": "",
@@ -222,7 +222,7 @@
   {
     "Ingredient": "Dark Chocolate 85%",
     "Category": "Dairy",
-    "Type of FODMAP": "No FODMAP",
+    "Type_of_FODMAP": "No FODMAP",
     "FODMAP_Levels": {
       "Low": "20g",
       "Medium": "",
@@ -232,7 +232,7 @@
   {
     "Ingredient": "Egg",
     "Category": "Dairy",
-    "Type of FODMAP": "No FODMAP",
+    "Type_of_FODMAP": "No FODMAP",
     "FODMAP_Levels": {
       "Low": "117g",
       "Medium": "",
@@ -242,7 +242,7 @@
   {
     "Ingredient": "Fish",
     "Category": "Protein",
-    "Type of FODMAP": "No FODMAP",
+    "Type_of_FODMAP": "No FODMAP",
     "FODMAP_Levels": {
       "Low": "115g",
       "Medium": "",
@@ -252,7 +252,7 @@
   {
     "Ingredient": "Garlic",
     "Category": "Vegetables",
-    "Type of FODMAP": "Fructan",
+    "Type_of_FODMAP": "Fructan",
     "FODMAP_Levels": {
       "Low": "",
       "Medium": "",
@@ -262,7 +262,7 @@
   {
     "Ingredient": "Grapes (Green)",
     "Category": "Fruits",
-    "Type of FODMAP": "Fructose",
+    "Type_of_FODMAP": "Fructose",
     "FODMAP_Levels": {
       "Low": "11g",
       "Medium": "15g",
@@ -272,7 +272,7 @@
   {
     "Ingredient": "Green Beans",
     "Category": "Vegetables",
-    "Type of FODMAP": "Mannitol, Sorbitol",
+    "Type_of_FODMAP": "Mannitol, Sorbitol",
     "FODMAP_Levels": {
       "Low": "75g",
       "Medium": "120g",
@@ -282,7 +282,7 @@
   {
     "Ingredient": "Green Bell Pepper",
     "Category": "Vegetables",
-    "Type of FODMAP": "Fructan",
+    "Type_of_FODMAP": "Fructan",
     "FODMAP_Levels": {
       "Low": "75g",
       "Medium": "250g",
@@ -292,7 +292,7 @@
   {
     "Ingredient": "Green Peas (Frozen)",
     "Category": "Vegetables",
-    "Type of FODMAP": "GOS, Fructan",
+    "Type_of_FODMAP": "GOS, Fructan",
     "FODMAP_Levels": {
       "Low": "15g",
       "Medium": "18g",
@@ -302,7 +302,7 @@
   {
     "Ingredient": "Honey",
     "Category": "Condiments",
-    "Type of FODMAP": "Fructose",
+    "Type_of_FODMAP": "Fructose",
     "FODMAP_Levels": {
       "Low": "7g",
       "Medium": "14g",
@@ -312,7 +312,7 @@
   {
     "Ingredient": "Kiwi (green)",
     "Category": "Fruits",
-    "Type of FODMAP": "Fructan",
+    "Type_of_FODMAP": "Fructan",
     "FODMAP_Levels": {
       "Low": "150g",
       "Medium": "275g",
@@ -322,7 +322,7 @@
   {
     "Ingredient": "lentils",
     "Category": "Canned Goods",
-    "Type of FODMAP": "GOS, Fructan",
+    "Type_of_FODMAP": "GOS, Fructan",
     "FODMAP_Levels": {
       "Low": "46g",
       "Medium": "65g",
@@ -332,7 +332,7 @@
   {
     "Ingredient": "Lime (Juice)",
     "Category": "Fruits",
-    "Type of FODMAP": "Fructan",
+    "Type_of_FODMAP": "Fructan",
     "FODMAP_Levels": {
       "Low": "21g",
       "Medium": "279g",
@@ -342,7 +342,7 @@
   {
     "Ingredient": "Mandarin (imperial)",
     "Category": "Fruits",
-    "Type of FODMAP": "Fructose",
+    "Type_of_FODMAP": "Fructose",
     "FODMAP_Levels": {
       "Low": "90g",
       "Medium": "97g",
@@ -352,7 +352,7 @@
   {
     "Ingredient": "Mayonnaise",
     "Category": "Condiments",
-    "Type of FODMAP": "No FODMAP",
+    "Type_of_FODMAP": "No FODMAP",
     "FODMAP_Levels": {
       "Low": "40g",
       "Medium": "",
@@ -362,7 +362,7 @@
   {
     "Ingredient": "Oat Milk",
     "Category": "Dairy",
-    "Type of FODMAP": "Fructan, GOS",
+    "Type_of_FODMAP": "Fructan, GOS",
     "FODMAP_Levels": {
       "Low": "104g",
       "Medium": "121g",
@@ -372,7 +372,7 @@
   {
     "Ingredient": "Orange",
     "Category": "Fruits",
-    "Type of FODMAP": "Fructose",
+    "Type_of_FODMAP": "Fructose",
     "FODMAP_Levels": {
       "Low": "130g",
       "Medium": "152g",
@@ -382,7 +382,7 @@
   {
     "Ingredient": "Parmesan Cheese",
     "Category": "Dairy",
-    "Type of FODMAP": "No FODMAP",
+    "Type_of_FODMAP": "No FODMAP",
     "FODMAP_Levels": {
       "Low": "40g",
       "Medium": "",
@@ -392,7 +392,7 @@
   {
     "Ingredient": "Peach (White)",
     "Category": "Fruits",
-    "Type of FODMAP": "Fructan, Sorbitol",
+    "Type_of_FODMAP": "Fructan, Sorbitol",
     "FODMAP_Levels": {
       "Low": "19g",
       "Medium": "29g",
@@ -402,7 +402,7 @@
   {
     "Ingredient": "Pinneapple",
     "Category": "Fruits",
-    "Type of FODMAP": "Fructan",
+    "Type_of_FODMAP": "Fructan",
     "FODMAP_Levels": {
       "Low": "140g",
       "Medium": "195g",
@@ -412,7 +412,7 @@
   {
     "Ingredient": "Red Bell Pepper",
     "Category": "Vegetables",
-    "Type of FODMAP": "Fructose",
+    "Type_of_FODMAP": "Fructose",
     "FODMAP_Levels": {
       "Low": "43g",
       "Medium": "59g",
@@ -422,7 +422,7 @@
   {
     "Ingredient": "Rice Milk",
     "Category": "Dairy",
-    "Type of FODMAP": "No FODMAP",
+    "Type_of_FODMAP": "No FODMAP",
     "FODMAP_Levels": {
       "Low": "200g",
       "Medium": "",
@@ -432,7 +432,7 @@
   {
     "Ingredient": "Saboy Cabbage (Raw)",
     "Category": "Vegetables",
-    "Type of FODMAP": "Fructan",
+    "Type_of_FODMAP": "Fructan",
     "FODMAP_Levels": {
       "Low": "75g",
       "Medium": "130g",
@@ -442,7 +442,7 @@
   {
     "Ingredient": "Seaweed, Nori (Dried)",
     "Category": "Snacks",
-    "Type of FODMAP": "Fructan",
+    "Type_of_FODMAP": "Fructan",
     "FODMAP_Levels": {
       "Low": "5g",
       "Medium": "390g",
@@ -452,7 +452,7 @@
   {
     "Ingredient": "Shiitake Mushroom",
     "Category": "Vegetables",
-    "Type of FODMAP": "Mannitol",
+    "Type_of_FODMAP": "Mannitol",
     "FODMAP_Levels": {
       "Low": "11g",
       "Medium": "17g",
@@ -462,7 +462,7 @@
   {
     "Ingredient": "Spinach",
     "Category": "Vegetables",
-    "Type of FODMAP": "No FODMAP",
+    "Type_of_FODMAP": "No FODMAP",
     "FODMAP_Levels": {
       "Low": "75g",
       "Medium": "",
@@ -472,7 +472,7 @@
   {
     "Ingredient": "Strawberry",
     "Category": "Fruits",
-    "Type of FODMAP": "Fructose",
+    "Type_of_FODMAP": "Fructose",
     "FODMAP_Levels": {
       "Low": "65g",
       "Medium": "75g",
@@ -482,7 +482,7 @@
   {
     "Ingredient": "Sweet Potato",
     "Category": "Vegetables",
-    "Type of FODMAP": "Mannitol",
+    "Type_of_FODMAP": "Mannitol",
     "FODMAP_Levels": {
       "Low": "75g",
       "Medium": "100g",
@@ -492,7 +492,7 @@
   {
     "Ingredient": "Swiss Chard",
     "Category": "Vegetables",
-    "Type of FODMAP": "No FODMAP",
+    "Type_of_FODMAP": "No FODMAP",
     "FODMAP_Levels": {
       "Low": "75g",
       "Medium": "",
@@ -502,7 +502,7 @@
   {
     "Ingredient": "Tofu (soy bean curd), silken",
     "Category": "Protein",
-    "Type of FODMAP": "GOS, Fructan",
+    "Type_of_FODMAP": "GOS, Fructan",
     "FODMAP_Levels": {
       "Low": "39g",
       "Medium": "46g",
@@ -512,7 +512,7 @@
   {
     "Ingredient": "Tofu Firm",
     "Category": "Protein",
-    "Type of FODMAP": "Fructan",
+    "Type_of_FODMAP": "Fructan",
     "FODMAP_Levels": {
       "Low": "170g",
       "Medium": "175g",
@@ -522,7 +522,7 @@
   {
     "Ingredient": "Tuna Canned in Oil",
     "Category": "Canned Goods",
-    "Type of FODMAP": "No FODMAP",
+    "Type_of_FODMAP": "No FODMAP",
     "FODMAP_Levels": {
       "Low": "100g",
       "Medium": "",
@@ -532,7 +532,7 @@
   {
     "Ingredient": "Watermelon",
     "Category": "Fruits",
-    "Type of FODMAP": "Fructose, Mannitol, Fructan",
+    "Type_of_FODMAP": "Fructose, Mannitol, Fructan",
     "FODMAP_Levels": {
       "Low": "18g",
       "Medium": "24g",
@@ -542,7 +542,7 @@
   {
     "Ingredient": "White Cabbage (Raw)",
     "Category": "Vegetables",
-    "Type of FODMAP": "Fructan",
+    "Type_of_FODMAP": "Fructan",
     "FODMAP_Levels": {
       "Low": "75g",
       "Medium": "194g",
@@ -552,7 +552,7 @@
   {
     "Ingredient": "White Potato (Peeled)",
     "Category": "Vegetables",
-    "Type of FODMAP": "No FODMAP",
+    "Type_of_FODMAP": "No FODMAP",
     "FODMAP_Levels": {
       "Low": "75g",
       "Medium": "",
@@ -562,7 +562,7 @@
   {
     "Ingredient": "White Sugar",
     "Category": "Baking Supplies",
-    "Type of FODMAP": "No FODMAP",
+    "Type_of_FODMAP": "No FODMAP",
     "FODMAP_Levels": {
       "Low": "50g",
       "Medium": "",
@@ -572,7 +572,7 @@
   {
     "Ingredient": "Zuchini",
     "Category": "Vegetables",
-    "Type of FODMAP": "Fructan",
+    "Type_of_FODMAP": "Fructan",
     "FODMAP_Levels": {
       "Low": "67g",
       "Medium": "75g",
@@ -582,7 +582,7 @@
   {
     "Ingredient": "Chickpea (Canned)",
     "Category": "Canned Goods",
-    "Type of FODMAP": "Fructan, GOS",
+    "Type_of_FODMAP": "Fructan, GOS",
     "FODMAP_Levels": {
       "Low": "80g",
       "Medium": "95g",
@@ -592,7 +592,7 @@
   {
     "Ingredient": "Almonds",
     "Category": "Grains and Pasta",
-    "Type of FODMAP": "GOS",
+    "Type_of_FODMAP": "GOS",
     "FODMAP_Levels": {
       "Low": "22g",
       "Medium": "25g",
